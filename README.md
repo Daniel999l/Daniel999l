@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Html and CSS 
 - 💞️ I’m looking to collaborate on Startups, projects etc
-- 📫 How to reach me https://wa.me/2347025298345
+- 📫 How to reach me https://twitter.com/daifreenft
 
 
 <!---
